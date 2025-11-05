@@ -22,7 +22,7 @@
 
 🎯 Currently driving **hybrid search**, **knowledge orchestration**, and **VLM-based systems** at **AI71** (Abu Dhabi).
 
-💼 Previously developed **MLOps** and **inference frameworks** at **Zepto** & **Sprinklr**.
+💼 Previously build **Inference** and **ML Platforms** at **Zepto** & **Sprinklr**.
 
 🏆 **IIT Dhanbad** graduate with **9.0/10 GPA**
 
