@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-🚀 **Senior AI Engineer** with **6.2+ years** of experience building LLM-powered products, RAG systems, and agentic AI platforms from ground up.
+🚀 **Senior AI Engineer** with **6.5+ years** of experience building LLM-powered products, RAG systems, and agentic AI platforms from ground up.
 
 🎯 Currently driving **hybrid search**, **knowledge orchestration**, and **VLM-based systems** at **AI71** (Abu Dhabi).
 
