@@ -48,10 +48,9 @@
 
 | 🏢 Company | 💼 Role | ⏱️ Duration | ✨ Key Highlights |
 |:-----------|:--------|:-----------|:-----------------|
-| **AI71** | Senior AI Engineer | 1.0 year | RAG pipelines • Hybrid Search • Agentic Orchestrator • 60% latency ↓ |
-| **Zepto** | SDE 3 - ML Platform | 0.5 years | TF-Serving • VLM for products • MLOps on MLFlow |
-| **UnifyApps** | Lead Product Engineer | 0.7 years | Fine-tuned Llama3-8B • Text-to-SQL Copilot • LLM Chatbot |
-| **Sprinklr** | Lead Product Engineer | 4.0 years | Agent Scoring • K8s GPU clusters • Kafka optimization |
+| **AI71** | Sr. AI Engineer | 1.2 year | RAG pipelines • Hybrid Search • Agentic Orchestrator • 60% latency ↓ |
+| **Zepto** | Lead ML Engineer | 0.5 years | TF-Serving • VLM for products • MLOps on MLFlow |
+| **Sprinklr** | Lead Product Engineer | 4.7 years | Agent Scoring • K8s GPU clusters • Kafka optimization |
 
 </div>
 
