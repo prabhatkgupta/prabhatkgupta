@@ -49,7 +49,7 @@
 | 🏢 Company | 💼 Role | ⏱️ Duration | ✨ Key Highlights |
 |:-----------|:--------|:-----------|:-----------------|
 | **AI71** | Sr. AI Engineer | 1.2 year | RAG pipelines • Hybrid Search • Agentic Orchestrator • 60% latency ↓ |
-| **Zepto** | Lead ML Engineer | 0.5 years | TF-Serving • VLM for products • MLOps on MLFlow |
+| **Zepto (YC 21)** | Lead ML Engineer | 0.5 years | TF-Serving • VLM for products • MLOps on MLFlow |
 | **Sprinklr** | Lead Product Engineer | 4.7 years | Agent Scoring • K8s GPU clusters • Kafka optimization |
 
 </div>
