@@ -62,7 +62,7 @@
 
 **🤖 LLMs & AI**
 ```
-GPT-5 • Claude Sonnet 4 • BAAI/BGE-m3 • DeepSeek-OCR • LoRA • Mistral
+GPT-5 • Claude Sonnet 4.5 • BAAI/BGE-m3 • DeepSeek-OCR • LoRA • Mistral
 ```
 
 **📚 Libraries**
